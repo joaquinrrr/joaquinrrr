@@ -27,7 +27,7 @@ Here are some ideas to get you started:
  
  🔭 I’m currently working on **Data Analytics**
  
- 🌱 I’m currently learning **Python + Cybersecurity** and **Cloud Computing**
+ 🌱 I’m currently learning **Ethical Hacking** and **Cloud Computing**
 
 💬 Ask me about anything!!!
 
