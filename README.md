@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git,azure,gherkin,java,angular" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,mysql,sqlite,php" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,mysql,sqlite,php,firebase" /><br>
 </div>
 
 <br/>
