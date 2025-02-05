@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <div align="center">
  
- 🔭 I’m currently working on **Data Analytics**
+ 🔭 I’m currently working on **Cybersecurity**
  
  🌱 I’m currently learning **Ethical Hacking** and **Cloud Computing**
 
